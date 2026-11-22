@@ -1,0 +1,18 @@
+.line{
+    line-height: 1.7;
+}
+.size{
+    font-size: 65px;
+}
+.text{
+    font-weight: 600;
+}
+.collapse.navbar-collapse{
+    font-weight: 600;
+}
+.build h1{
+    font-size: 43px;
+}
+.build p{
+    line-height: 1.5;
+}
